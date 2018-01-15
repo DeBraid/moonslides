@@ -18,7 +18,7 @@ Salvatore Delle Palme and Derek Braid
 
 * In the industry since 2012
 * OTC trading, Kraken, QuadrigaCX
-* tech optimist 
+* Tech optimist 
 
 ---
 
@@ -89,17 +89,17 @@ BTC pace of appreciation since 2014 eclipses Tulipmania craze of 17th century Ne
 
 * Ethereum: decentralized computer / dapps
 * Ripple: settlement / SWIFT competitor
-* Thousands of new digital assets 
+* Over 1,000 cryptocurrencies have market caps over 2 million 
 
 Blockchain ecosystem is vast! 
 
 ---
 
-##  Meetups & More...
+##  Stay in Touch
 
 * Hamilton Blockchain 
 * Burlington Bitcoin
-* moonlisting.com
+* MoonListing.com
 
 Thank you!
 
