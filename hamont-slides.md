@@ -101,10 +101,6 @@ Blockchain ecosystem is vast!
 * Burlington Bitcoin
 * moonlisting.com
 
-
----
-
-
 Thank you!
 
 ## Q&A
