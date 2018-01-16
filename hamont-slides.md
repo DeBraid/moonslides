@@ -85,13 +85,13 @@ BTC pace of appreciation since 2014 eclipses Tulipmania craze of 17th century Ne
 
 ---
 
-## Altcoins
+## "Altcoins" and Blockchain Ecosystem
 
-* Ethereum: decentralized computer / dapps
-* Ripple: settlement / SWIFT competitor
-* Over 1,000 cryptocurrencies have market caps over 2 million 
-
-Blockchain ecosystem is vast! 
+* 30+ crypto assets have a market cap over $1 billion
+* 700+ have market caps over $2 million
+* Ethereum: decentralized computer / OS for dapps
+* Ripple: instant settlement / SWIFT competitor
+* Coinbase valued at $1.6b
 
 ---
 
