@@ -88,7 +88,7 @@ BTC pace of appreciation since 2014 eclipses Tulipmania craze of 17th century Ne
 ## "Altcoins" and Blockchain Ecosystem
 
 * 30+ crypto assets have a market cap over $1 billion
-* 700+ have market caps over $2 million
+* 500 have market caps over $10 million
 * Ethereum: decentralized computer / OS for dapps
 * Ripple: instant settlement / SWIFT competitor
 * Coinbase valued at $1.6b
